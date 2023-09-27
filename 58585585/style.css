@@ -1,0 +1,30 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+* {
+} 
+
+h1 {
+
+   color: rgb(5, 4, 3); 
+   background-color: rgba(12, 109, 116, 0.226);
+   padding: 30px;
+   text-align: center;
+   margin: 0px 0px ;
+   
+   font-family: 'Roboto', sans-serif;
+}
+h2{
+    color: burlywood;
+    background-color: rgb(66, 51, 19);
+    text-align: center;
+}
+body {
+    background-color: rgb(255, 255, 255);
+    
+}
+.teste{
+    color: rgb(18, 19, 18);
+}
