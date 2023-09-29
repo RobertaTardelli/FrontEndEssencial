@@ -3,8 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Croissant+One&display=swap');
 
 
-* {
-} 
+
 
 h1 {
 font-size: xx-large;
@@ -19,17 +18,12 @@ font-size: xx-large;
     justify-content: end;
      }
 
-     .edita img{
-        width: 75px;
-        margin-top: 30px;
-     }
-
 h2{
     color: rgb(0, 0, 0);
     background-color: rgb(12, 109, 116, 0.226);
     text-align: left; 
     padding: 10px;
-    margin: 5px 0px
+    margin: 2px 0px
     ;
     
 }
@@ -44,7 +38,27 @@ body {
 
 .dados {
     padding: 10px;
+    display: flex;
+    justify-content: space-between;
 }
-.foto{
-    position: relative;
-}
+ .foto_teste{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    /* position: absolute;
+    left: 1350px;
+    top: 70px; */
+ }
+ /* .abc{
+    margin: 100px 0px;
+ } */
+ .texto{
+    top: 80;
+ }
+ .ajustes{
+    padding: 10px;
+ }
+ .icones{
+    width: 30px;
+    height: 30px;
+ }
